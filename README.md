@@ -1,6 +1,6 @@
 # CWAE_introduction
 
-# MNIST 
+# MNIST dense layer
 
 https://colab.research.google.com/drive/1mWLwytyu7KEy1uas5GTUSF2-3xFqKZDk
 
